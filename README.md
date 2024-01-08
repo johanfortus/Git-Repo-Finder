@@ -1,17 +1,17 @@
-# TV Show API
-TV Show API - Frontend App 
+# Git Repo Finder
+Git Repo Finder - Frontend App 
 
 ## Summary
 
-The purpose of this project is to practice frontend development and API fetching.
+Developed as a personal project, RepoFinder was created to practice and demonstrate skills in implementing external APIs effectively.
 
-A simple and user-friendly website designed to help users discover TV shows based on their search criteria. 
+A dynamic and user-friendly GitHub repository search tool, designed to streamline the process of finding repositories based on user-defined search criteria.
 
-The web application was built using web technologies, including HTML for structure, Bootstrap for responsive design, JavaScript for dynamic interactivity, jQuery for efficient DOM manipulation, and Axios for making seamless HTTP requests to the TV Maze API.
+This web application is a showcase of modern web development practices, utilizing HTML, Bootstrap for responsive design, JavaScript, jQuery for efficient DOM manipulation, and Axios for seamless HTTP requests.
 
-This website utilizes the TV API from TVmaze.com. It connects to the TV Maze API to fetch detailed information about a wide array of television shows. Simply search for any type of TV show you're interested in, and it will present you with detailed information including show titles, descriptions, episode lists, etc.
+The application interfaces with GitHub's REST API to fetch repository data based on user queries. It offers an intuitive interface that allows users to search for GitHub repositories using various filters and keywords.
 
-You can visit the website [here](https://johanfortus.github.io/TV-Show-API/).
+You can visit the website [here](https://johanfortus.github.io/Git-Repo-Finder/).
 
 ## Built With
 
@@ -23,7 +23,6 @@ You can visit the website [here](https://johanfortus.github.io/TV-Show-API/).
 
 ## APIs Used
 
-- [TV API](https://www.tvmaze.com/api)
+- [GitHub's REST API](https://docs.github.com/en/rest?api)
 
-<img src="https://github.com/johanfortus/TV-Show-API/blob/main/Assets/TVShowAPIDemonstration.gif" /> 
-
+<img src="https://github.com/johanfortus/Git-Repo-Finder/blob/main/img/GitRepoFinderDesktop.gif" /> 
